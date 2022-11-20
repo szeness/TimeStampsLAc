@@ -1,6 +1,15 @@
 # TimeStampsTool
 Time In Out with User Login and Admin Area for editings and Stats
 
+
+
+![image](https://user-images.githubusercontent.com/105649203/202903542-0ec72337-c4b3-4170-9da9-d0124a1ef03c.png)
+
+![image](https://user-images.githubusercontent.com/105649203/202903377-ea42ecbb-3663-456d-af1c-be38871c7488.png)
+![image](https://user-images.githubusercontent.com/105649203/202903410-fdb4ff40-c5f1-41da-a6e0-21b8af404032.png)
+![image](https://user-images.githubusercontent.com/105649203/202903463-32023e59-82cc-42a8-ac5b-40e29c67783e.png)
+
+
 the SQLite Db is not with it I believe.
 Gonna fix it later so can dl and check, since the code itself really not beautifuly done, it would be good to see the gui.
 
