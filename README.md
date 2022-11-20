@@ -12,26 +12,26 @@ its demo pics without the sql db , i got it on the other pc. so it looks empty ,
 ![image](https://user-images.githubusercontent.com/105649203/202903463-32023e59-82cc-42a8-ac5b-40e29c67783e.png)
 
 
-well its a program for saving in and out timestamps in an sql database for multiple users and comes with an admin area for maintence and stats to pull. 
+well its a program for saving in and out timestamps in an sql database for multiple users and comes with a admin area for maintence and stats to pull. 
 
 as mentioned the code is not beautiful, it means the actionlisteners and sql statements are in the Gui.class file all together under the Labels and Fields. 
 
-user can login and then choose from a dropdown menu wich task he want to clock in or out for. he has a little display area where he sees for example the login dates
-or infos for example " already logged in at so on " . .   
+user can login and then choose from a dropdown menu wich task he want to clock in or out for. he has a display area where he sees for example the login dates
+or infos like " already logged in at so on " . .   
 so thats it for a normal user
 
 But, if the user has a 1 in the admin column in the sql db. he will be able to go to the admin area inside the app wich normal users cant.
-for him or her a button will be visible where they can go to the admin area. 
-in that area they are able to add users into the sql db, and to see who is logged in and pull stats. so its also a leader area for have an overview of employes logged in on what
+for him or her a button will be visible that says "Admin".
+in that section they are able to add users and passwords into the sql db, to see who is logged in and pull other stats. 
 
-also in this area the dropdown menu can be edited. its possible to add and remove tasks like for example lunch break or fieldmission or so. 
+also in this area the dropdown menu can be edited. its possible to add and remove tasks for the users to choose. 
 
-also edit the users registrations via the Gui. he can set the Admin option for any other user he wants to be admin. 
-
+also edit the users registrations via the Gui. he can set the admin option or edit data.
 so thats the momentary stage. 
 
-now i could beautifuly build in more several options to have dynamic admin tools in it and make it actually perfect for the enduser.
+now i could beautifuly build in more several options to have more dynamic admin tools in it and make it as wished for the enduser. 
+Also I could build in a Edit Area where the Admin can create himself new buttons and pages for example. or set his own sql pull statement or give all the options via buttons and dropdowns. so building a low code section in it so customer can customize it ;) for at least to have their own sql statements set as fav searches. 
 
-the Gui color world kinda nice very easy kept. its a 2 days project or so actualy. right its the 4th app i developed. after this came the garage simulation i believe 
+the Gui color world kinda nice very easy kept. its a 3 days project or so actualy. right its the 4th app i developed. after this came the garage simulation. 
 
 
