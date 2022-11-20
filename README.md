@@ -26,13 +26,13 @@ in that section they are able to add users and passwords into the sql db, to see
 
 also in this area the dropdown menu can be edited. its possible to add and remove tasks for the users to choose. 
 
-also edit the users registrations via the Gui. he can set the admin option or edit data.
+also edit the users registrations and set the adminrights or edit data.
 
-that is the momentary stage. 
+that is the current stage. 
 
-now could beautifuly build in more several options to have more dynamic admin tools in it and make it as wished for the enduser. 
-Also I could build in a Edit Area where the Admin can create himself new buttons and pages for example. or set his own sql pull statement or give all the options via buttons and dropdowns. so building a low code section )
+now I could beautifuly build in several more options to have additional dynamic admin tools in it and make it as wished for the enduser. 
+Or building in a Edit Area where the Admin can create himself new buttons and pages for example. or set his own sql pull statement. so building a low code section )
 
-the Gui color world kinda nice very easy kept. its a 3 days project or so actualy. right its the 4th app i developed. after this came the garage simulation. 
+its a 2-3 days project or so far actualy. Its the 4th app i developed. after this came the garage simulation. 
 
 
