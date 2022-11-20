@@ -12,9 +12,6 @@ its demo pics without the sql db , i got it on the other pc. so it looks empty ,
 ![image](https://user-images.githubusercontent.com/105649203/202903463-32023e59-82cc-42a8-ac5b-40e29c67783e.png)
 
 
-the SQLite Db is not with it I believe.
-Gonna fix it later so can dl and check, since the code itself really not beautifuly done, it would be good to see the gui.
-
 well its a program for saving in and out timestamps in an sql database for multiple users and comes with an admin area for maintence and stats to pull. 
 
 as mentioned the code is not beautiful, it means the actionlisteners and sql statements are in the Gui.class file all together under the Labels and Fields. 
