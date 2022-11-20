@@ -1,7 +1,9 @@
 # TimeStampsTool
 Time In Out with User Login and Admin Area for editings and Stats
 
+its demo pics without the sql db , i got it on the other pc. so it looks empty , the dropdowns aswell filled by the db
 
+![image](https://user-images.githubusercontent.com/105649203/202903091-9561d9ff-1594-432f-86b3-a886e675d853.png)
 
 ![image](https://user-images.githubusercontent.com/105649203/202903542-0ec72337-c4b3-4170-9da9-d0124a1ef03c.png)
 
