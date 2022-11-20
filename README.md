@@ -16,11 +16,9 @@ well its a program for saving in and out timestamps in an sql database for multi
 
 as mentioned the code is not beautiful, it means the actionlisteners and sql statements are in the Gui.class file all together under the Labels and Fields. 
 
-so not an easy overview maybe but I can explain shortly
-
 user can login and then choose from a dropdown menu wich task he want to clock in or out for. he has a little display area where he sees for example the login dates
 or infos for example " already logged in at so on " . .   
-so thats it for a normal user as I remember
+so thats it for a normal user
 
 But, if the user has a 1 in the admin column in the sql db. he will be able to go to the admin area inside the app wich normal users cant.
 for him or her a button will be visible where they can go to the admin area. 
