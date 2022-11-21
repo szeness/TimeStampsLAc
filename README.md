@@ -20,7 +20,7 @@ user can login and then choose from a dropdown menu wich task he want to clock i
 or infos like " already logged in at so on " . .   
 so thats it for a normal user
 
-But, if the user has a 1 in the admin column in the sql db. he will be able to go to the admin area inside the app wich normal users cant.
+But, if the user has a 1 in the admin column in the sql db, he will be able to go to the admin area inside the app wich normal users cant.
 for him or her a button will be visible that says "Admin".
 in that section they are able to add users and passwords into the sql db, to see who is logged in and pull other stats. 
 
