@@ -33,6 +33,6 @@ that is the current stage.
 now I could beautifuly build in several more options to have additional dynamic admin tools in it and make it as wished for the enduser. 
 Or building in a Edit Area where the Admin can create himself new buttons and pages for example. or set his own sql pull statement. so building a low code section )
 
-its a 2-3 days project or so far actualy. Its the 4th app i developed. after this came the garage simulation. 
+its a 2-3 days project so far actualy. Its the 4th app i developed. after this came the garage simulation. 
 
 
